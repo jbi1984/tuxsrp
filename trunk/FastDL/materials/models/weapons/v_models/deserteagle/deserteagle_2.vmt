@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\\weapons\v_models\deserteagle\deserteagle_2"
+	"$model" 1
+	"$halflambert" 1
+}
